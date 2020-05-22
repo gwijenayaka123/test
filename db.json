@@ -1,6 +1,6 @@
 {
 
-  "posts": [
+  "cards": [
 
     { "id": 1, "CardNumber": "11111" , "CardType" : "Credit", "Amount" :"100"},
 
