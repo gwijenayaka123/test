@@ -1,0 +1,12 @@
+{
+
+  "posts": [
+
+    { "id": 1, "CardNumber": "11111" , "CardType" : "Credit", "Amount" :"100"},
+
+   { "id": 1, "CardNumber": "22222" , "CardType" : "Debit", "Amount" :"200"},
+
+    { "id": 1, "CardNumber": "33333" , "CardType" : "Credit", "Amount" :"300"}
+
+  ]
+}
