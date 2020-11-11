@@ -1,12 +1,4 @@
 {
-
-  "cards": [
-
-    { "id": 11111, "CardNumber": "11111" , "ExpierDate" : "12/23" , "SecurityCode" : "123",  "CardType" : "Credit Card", "Amount" :"100"},
-
-   { "id": 22222, "CardNumber": "22222" , "ExpierDate" : "12/23" , "SecurityCode" : "123", "CardType" : "Debit Card", "Amount" :"200"},
-
-    { "id": 33333, "CardNumber": "33333" , "ExpierDate" : "12/23" , "SecurityCode" : "123", "CardType" : "Credit Card", "Amount" :"300"}
-
-  ]
+	"returnCode" : "0",
+	"coffeePrice" : "2.85"
 }
